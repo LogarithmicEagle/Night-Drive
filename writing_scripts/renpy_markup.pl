@@ -4,10 +4,12 @@ use warnings;
 
 # Define characters and abbreviations
 my %characters = ("Jonah", "j",
-		  "Dillon", "d",
-		  "Benji", "b",
-		  "Xavier", "x",
-		  "??", "unk");
+		  "Dani", "d",
+		  "???", "unk",
+		  "Ange", "a",
+		  "Silas", "s",
+		  "Mindy", "m",
+		  "Liz", "l");
 
 # Open file to read
 my $file_name = $ARGV[0];
